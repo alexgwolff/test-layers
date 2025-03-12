@@ -1,0 +1,31 @@
+@layer foundation {
+  :root {
+    --background-brand-primary: unset;
+    --background-brand-quiet: unset;
+    --background-brand-secondary: unset;
+
+    --foreground-brand-primary: unset;
+    --foreground-brand-quiet-emphasys: unset;
+    --foreground-brand-secondary: unset;
+    --foreground-content-primary: unset;
+    --foreground-content-secondary: unset;
+    --foreground-inverted-primary: unset;
+    --foreground-static-primary: unset;
+    --foreground-static-secondary: unset;
+
+    --surface-brand-primary: unset;
+
+    --surface-content-primary: unset;
+    --surface-content-secondary: unset;
+    --surface-content-tertiary: unset;
+
+    --surface-inverted-primary: unset;
+
+    --surface-static-primary: unset;
+    --surface-static-primary: unset;
+
+    --surface-static-secondary: unset;
+    --surface-static-secondary: unset;
+    --surface-static-tertiary: unset;
+  }
+}

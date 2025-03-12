@@ -1,0 +1,9 @@
+@layer localization.japan {
+  :scope {
+    --background-alert-danger: var(--color-green-45);
+    --foreground-alert-danger: var(--color-white);
+
+    --background-alert-success: var(--color-red-45);
+    --foreground-alert-success: var(--color-white);
+  }
+}

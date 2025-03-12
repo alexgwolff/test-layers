@@ -1,0 +1,11 @@
+@layer button {
+  & {
+    --button-primary-background-color: var(--background-brand-primary);
+    --button-danger-background-color: var(--background-alert-danger);
+    --button-success-background-color: var(--background-alert-success);
+
+    --button-primary-foreground-color: var(--foreground-brand-primary);
+    --button-danger-foreground-color: var(--foreground-alert-danger);
+    --button-success-foreground-color: var(--foreground-alert-success);
+  }
+}

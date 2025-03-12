@@ -1,0 +1,22 @@
+@layer brand.purple.light {
+  :scope {
+    --surface-brand-primary: var(--color-purple-25);
+
+    --surface-static-primary: var(--color-gray-50);
+    --surface-static-secondary: var(--color-gray-45);
+
+    --surface-content-secondary: var(--color-gray-05);
+    --surface-content-tertiary: var(--color-gray-10);
+
+    --surface-inverted-primary: var();
+    --surface-content-primary: var();
+
+    --background-brand-primary: var(--color-purple-25);
+    --background-brand-secondary: var(--color-blue-15);
+    --background-brand-quiet: var(--color-transparent);
+
+    --foreground-brand-primary: var(--color-white);
+    --foreground-brand-secondary: var(--color-blue-75);
+    --foreground-brand-quiet-emphasys: var(--color-blue-45);
+  }
+}
